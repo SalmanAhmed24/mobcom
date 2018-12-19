@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/mobcom/static/media/car.4306f9a4.png"
   },
   {
-    "revision": "5d5f31e1b5b838c2aebd",
-    "url": "/mobcom/static/css/main.cd07ebb5.chunk.css"
+    "revision": "f0a0ee9cfd3644cdc5b4",
+    "url": "/mobcom/static/css/main.6e54a255.chunk.css"
   },
   {
     "revision": "bde68ee6bd9549362f88690209b7edb8",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/mobcom/static/media/back.454a671a.jpg"
   },
   {
-    "revision": "5d5f31e1b5b838c2aebd",
-    "url": "/mobcom/static/js/main.5d5f31e1.chunk.js"
+    "revision": "f0a0ee9cfd3644cdc5b4",
+    "url": "/mobcom/static/js/main.f0a0ee9c.chunk.js"
   },
   {
     "revision": "8a40bebf1c6632522ae3f3d4aa6415bb",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/mobcom/static/css/1.9925944c.chunk.css"
   },
   {
-    "revision": "f39587b56e1b7f238d05fb206fb4db99",
+    "revision": "9294a40aafce33ed78ac1891b25a5986",
     "url": "/mobcom/index.html"
   }
 ];
